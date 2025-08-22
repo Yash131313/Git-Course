@@ -2,7 +2,7 @@ add and remove users
 change the role
 login and logout
 manage the database
-closing the connection
+closing the database connection
 
 change1
 change2 in my harsh database
