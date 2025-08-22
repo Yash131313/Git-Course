@@ -1,4 +1,9 @@
 add and remove users
 change the role
+<<<<<<< HEAD
 
 login and logout
+=======
+manage the database
+closing the connection
+>>>>>>> feature2
